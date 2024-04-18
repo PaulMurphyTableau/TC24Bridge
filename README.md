@@ -1,5 +1,6 @@
 <p align="center">
-  https://github.com/PaulMurphyTableau/TC24Bridge/blob/2fc5813cb550f0e21cbfd2c19cf758423d5b712f/Images/TableauBridge.png
+  <img src="https://github.com/PaulMurphyTableau/TC24Bridge/blob/2fc5813cb550f0e21cbfd2c19cf758423d5b712f/Images/TableauBridge.png" /img>
+</p>
 
 
 Hello there!
