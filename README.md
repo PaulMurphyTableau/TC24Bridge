@@ -1,5 +1,5 @@
 <p align="center">
-  !IMAGE[TableauBridgeIcon.jpg](instructions258342/TableauBridgeIcon.jpg)
+  https://github.com/PaulMurphyTableau/TC24Bridge/blob/main/TableauBridge.png?raw=true
 
 
 Hello there!
