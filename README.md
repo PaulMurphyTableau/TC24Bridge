@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/PaulMurphyTableau/TC24Bridge/blob/2fc5813cb550f0e21cbfd2c19cf758423d5b712f/Images/TableauBridge.png" /img>
+  <img src="Images/TableauBridge.png" /img>
 </p>
 
 
